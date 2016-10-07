@@ -1,0 +1,24 @@
+PODS:
+  - ForceBlur/Core (1.0)
+  - ForceBlur/JSQMessagesViewController (1.0):
+    - ForceBlur/Core
+    - JSQMessagesViewController (~> 7.0)
+  - JSQMessagesViewController (7.3.4):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+
+DEPENDENCIES:
+  - ForceBlur/JSQMessagesViewController (from `../`)
+
+EXTERNAL SOURCES:
+  ForceBlur:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ForceBlur: e1810ef389d97a35c89f242cc2e3aa57b79a1e5a
+  JSQMessagesViewController: 39fed975e3c9f8eba7292071e29eeb541d105e66
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+
+PODFILE CHECKSUM: cea9c4360ed6f3a5076906a41aee65d2ded9ad9b
+
+COCOAPODS: 1.1.0.rc.2
