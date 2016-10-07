@@ -5,7 +5,7 @@
 
 ![Preview](Resources/preview.gif)
 
-Read how we made it [on our blog]()
+Read how we made it [on our blog](https://yalantis.com/blog/forceblur-animation-ios/)
 
 ## Features
 
