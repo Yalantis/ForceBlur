@@ -3,6 +3,8 @@
 ![Swift 3.0](https://img.shields.io/badge/Swift-3.0-orange.svg)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/ForceBlur.svg)](https://img.shields.io/cocoapods/v/ForceBlur.svg)
 
+Inspired by [this project on Dribbble](https://dribbble.com/shots/3010426-ForceBlur-Component)
+
 ![Preview](Resources/preview.gif)
 
 Read how we made it [on our blog](https://yalantis.com/blog/forceblur-animation-ios/)
